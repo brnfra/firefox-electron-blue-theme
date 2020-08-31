@@ -1,0 +1,60 @@
+{
+  "manifest_version": 2,
+  "version": "1.11",
+  "name": "Electron Blue",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/electron_blue.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(49, 111, 129)",
+      "toolbar_text": "rgb(0, 255, 248)",
+      "frame": "rgb(84, 117, 133)",
+      "tab_background_text": "rgb(203, 206, 206)",
+      "toolbar_field": "rgba(51, 79, 94, 0.87)",
+      "toolbar_field_text": "rgb(0, 255, 200)",
+      "tab_line": "rgb(90, 255, 0)",
+      "popup": "rgb(36, 95, 98)",
+      "popup_text": "rgb(161, 246, 253)",
+      "button_background_active": "rgb(1, 153, 147)",
+      "button_background_hover": "rgb(1, 153, 147)",
+      "frame_inactive": "rgb(49, 111, 129)",
+      "icons_attention": "rgb(255, 103, 0)",
+      "icons": "rgb(0, 255, 248)",
+      "ntp_background": "rgb(1, 153, 147)",
+      "ntp_text": "rgb(0, 255, 248)",
+      "popup_border": "rgb(0, 251, 241)",
+      "popup_highlight_text": "rgb(255, 103, 0)",
+      "popup_highlight": "rgb(40, 59, 62)",
+      "sidebar_border": "rgb(0, 251, 241)",
+      "sidebar_highlight_text": "rgb(0, 255, 251)",
+      "sidebar_highlight": "rgb(0, 0, 0)",
+      "sidebar_text": "rgb(161, 246, 253)",
+      "sidebar": "rgb(36, 95, 98)",
+      "tab_background_separator": "rgb(0, 255, 248)",
+      "tab_loading": "rgb(255, 103, 0)",
+      "tab_selected": "rgb(49, 111, 129)",
+      "tab_text": "rgb(0, 255, 248)",
+      "toolbar_bottom_separator": "rgb(0, 255, 248)",
+      "toolbar_field_border_focus": "rgb(0, 251, 241)",
+      "toolbar_field_border": "rgb(0, 255, 248)",
+      "toolbar_field_focus": "rgb(84, 117, 133)",
+      "toolbar_field_highlight_text": "rgb(0, 255, 251)",
+      "toolbar_field_highlight": "rgb(0, 0, 0)",
+      "toolbar_field_separator": "rgb(5, 255, 252)",
+      "toolbar_field_text_focus": "rgb(0, 255, 248)",
+      "toolbar_top_separator": "rgb(0, 255, 248)",
+      "toolbar_vertical_separator": "rgb(0, 255, 248)"
+    }
+  }
+}
