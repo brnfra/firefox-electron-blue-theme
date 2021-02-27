@@ -1,12 +1,10 @@
 {
   "manifest_version": 2,
-  "version": "1.122",
+  "version": "1.13",
   "name": "Electron Blue",
   "theme": {
     "images": {
-      "additional_backgrounds": [
-        "images/electron_blue.svg"
-      ]
+      "theme_frame": "colisions.jpg"  
     },
     "properties": {
       "additional_backgrounds_alignment": [
